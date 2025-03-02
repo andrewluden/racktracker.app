@@ -1,0 +1,11 @@
+This is a placeholder file for the images directory.
+
+Required images for the website:
+1. app-icon.png - The RackTracker app icon (recommended size: 512x512px)
+2. favicon.png - A small version of the app icon for browser tabs (recommended size: 32x32px)
+3. screenshot-1.png - Screenshot of the Gear List View
+4. screenshot-2.png - Screenshot of the Gear Detail View
+5. screenshot-3.png - Screenshot of the Rack Management View
+6. screenshot-4.png - Screenshot of the Climb Logging View
+
+Please replace this file with the actual images before deploying the website. 
